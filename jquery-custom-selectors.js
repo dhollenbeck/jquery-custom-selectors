@@ -26,6 +26,3 @@ $.extend( $.expr[ ":" ], {
     }
 
 });
-
-// '#use-statement:selected'
-// '#use-statement:not(:selected)'
